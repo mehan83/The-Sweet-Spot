@@ -1,0 +1,23 @@
+#contact {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    
+}
+
+#contactinfo {
+    list-style-type: circle;
+}
+
+ul {
+    background-color: aqua;
+}
+
+ul:hover{
+    background-color: rgb(231, 165, 165);
+}
+
+#btp a:visited {
+    color: #ed0fbd;
+}
+
